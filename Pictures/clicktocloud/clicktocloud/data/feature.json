@@ -1,0 +1,401 @@
+[
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Balcony",
+    "validFor": "QAAA",
+    "value": "Balcony"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Courtyard",
+    "validFor": "QAAA",
+    "value": "Courtyard"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Deck",
+    "validFor": "QAAA",
+    "value": "Deck"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Fully Fenced",
+    "validFor": "QAAA",
+    "value": "Fully Fenced"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Garden",
+    "validFor": "QAAA",
+    "value": "Garden"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Outdoor Entertainment Area",
+    "validFor": "QAAA",
+    "value": "Outdoor Entertainment Area"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Outdoor Spa",
+    "validFor": "QAAA",
+    "value": "Outdoor Spa"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Remote Garage",
+    "validFor": "QAAA",
+    "value": "Remote Garage"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Secure Parking",
+    "validFor": "QAAA",
+    "value": "Secure Parking"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Shed",
+    "validFor": "QAAA",
+    "value": "Shed"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Swimming Pool - Above Ground",
+    "validFor": "QAAA",
+    "value": "Swimming Pool - Above Ground"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Swimming Pool - In Ground",
+    "validFor": "QAAA",
+    "value": "Swimming Pool - In Ground"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Tennis Court",
+    "validFor": "QAAA",
+    "value": "Tennis Court"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Air Conditioning",
+    "validFor": "gAAA",
+    "value": "Air Conditioning"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Alarm System",
+    "validFor": "gAAA",
+    "value": "Alarm System"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Bath",
+    "validFor": "gAAA",
+    "value": "Bath"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Broadband internet access",
+    "validFor": "gAAA",
+    "value": "Broadband internet access"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Built in wardrobes",
+    "validFor": "gAAA",
+    "value": "Built in wardrobes"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Cable or Satellite",
+    "validFor": "gAAA",
+    "value": "Cable or Satellite"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Dishwasher",
+    "validFor": "gAAA",
+    "value": "Dishwasher"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Ducted Vacuum System",
+    "validFor": "gAAA",
+    "value": "Ducted Vacuum System"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Ducted Cooling",
+    "validFor": "gAAA",
+    "value": "Ducted Cooling"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Ducted Heating",
+    "validFor": "gAAA",
+    "value": "Ducted Heating"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Hydronic Heating",
+    "validFor": "gAAA",
+    "value": "Hydronic Heating"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Ensuite",
+    "validFor": "gAAA",
+    "value": "Ensuite"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Fireplaces",
+    "validFor": "gAAA",
+    "value": "Fireplaces"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Floorboards",
+    "validFor": "gAAA",
+    "value": "Floorboards"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Furnished",
+    "validFor": "gAAA",
+    "value": "Furnished"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Gas",
+    "validFor": "gAAA",
+    "value": "Gas"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Gym",
+    "validFor": "gAAA",
+    "value": "Gym"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Heating",
+    "validFor": "gAAA",
+    "value": "Heating"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Indoor Spa",
+    "validFor": "gAAA",
+    "value": "Indoor Spa"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Intercom",
+    "validFor": "gAAA",
+    "value": "Intercom"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Internal Laundry",
+    "validFor": "gAAA",
+    "value": "Internal Laundry"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Open Fireplace",
+    "validFor": "gAAA",
+    "value": "Open Fireplace"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Pets allowed",
+    "validFor": "gAAA",
+    "value": "Pets allowed"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Reverse Cycle Air Conditioning",
+    "validFor": "gAAA",
+    "value": "Reverse Cycle Air Conditioning"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Split-System Air Conditioning",
+    "validFor": "gAAA",
+    "value": "Split-System Air Conditioning"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Split-System Heating",
+    "validFor": "gAAA",
+    "value": "Split-System Heating"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Rumpus Room",
+    "validFor": "gAAA",
+    "value": "Rumpus Room"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Separate Dining Room",
+    "validFor": "gAAA",
+    "value": "Separate Dining Room"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Study",
+    "validFor": "gAAA",
+    "value": "Study"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Workshop",
+    "validFor": "gAAA",
+    "value": "Workshop"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "City Views",
+    "validFor": "gAAA",
+    "value": "City Views"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Ground floor",
+    "validFor": "gAAA",
+    "value": "Ground floor"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "North Facing",
+    "validFor": "gAAA",
+    "value": "North Facing"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Water Views",
+    "validFor": "gAAA",
+    "value": "Water Views"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Double glazed windows",
+    "validFor": "IAAA",
+    "value": "Double glazed windows"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Energy efficient appliances",
+    "validFor": "IAAA",
+    "value": "Energy efficient appliances"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Greywater system",
+    "validFor": "IAAA",
+    "value": "Greywater system"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Rainwater storage tank",
+    "validFor": "IAAA",
+    "value": "Rainwater storage tank"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Solar hot water",
+    "validFor": "IAAA",
+    "value": "Solar hot water"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Solar panels",
+    "validFor": "IAAA",
+    "value": "Solar panels"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Wall / ceiling insulation",
+    "validFor": "IAAA",
+    "value": "Wall / ceiling insulation"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Water efficient appliances",
+    "validFor": "IAAA",
+    "value": "Water efficient appliances"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Water efficient fixtures",
+    "validFor": "IAAA",
+    "value": "Water efficient fixtures"
+  },
+  {
+    "active": true,
+    "defaultValue": false,
+    "label": "Water Tank",
+    "validFor": "",
+    "value": "Water Tank"
+  }
+]

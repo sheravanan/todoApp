@@ -1,0 +1,33 @@
+<div class="container">
+	<div class="row">
+		<div class="col-lg-12">
+			<ul class="nav nav-pills">
+			  <li data-ng-class="{active: group.label === selectedGroup.label}" data-ng-click="selectGroup(group)" data-ng-repeat="group in model.left"><a>{{group.label}}</a></li>
+			</ul>
+		</div>
+	</div>
+	</br>
+	<div class="row">
+		<div class="col-lg-5 leftPane">
+				<select data-ng-model="selectedFeatures"
+                        multiple="multiple"
+                        data-ng-options="feature as feature.label for feature in selectedGroup.features | orderBy:'value'">
+				  <option>--</option>
+				</select>
+		</div>
+		<div class="col-lg-2">
+			<div class="centrePane">
+				<button type="button" data-ng-click="move('right')" class="btn btn-default">&gt;</button>
+                <button type="button" data-ng-click="move('left')" class="btn btn-default">&lt;</button>
+			</div>
+		</div>
+
+		<div class="col-lg-5 rightPane">
+				<select data-ng-model="selectedFeatures"
+                        multiple="multiple"
+                        data-ng-options="feature as feature.label group by feature.type for feature in rightView | orderBy:'value'">
+
+				</select>
+		</div>
+	</div>
+</div>
