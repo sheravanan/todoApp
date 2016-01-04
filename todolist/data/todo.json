@@ -1,0 +1,7 @@
+{"todos":[
+
+    {"todo":"Learn AngularJS", "status":"true","startTime":"", "endTime":"", "duration":""  },
+    {"todo":"Learn JavaScript", "status":"false", "startTime":"", "endTime":"", "duration":""  },
+    {"todo":"Unit Testing", "status":"true", "startTime":"", "endTime":"", "duration":"" }
+    
+]}

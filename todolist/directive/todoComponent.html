@@ -1,0 +1,36 @@
+<div class='container'>
+	<h2>To do List</h2>
+		<div class="row">
+			<form novalidate class="navbar-form">
+				<div class="form-group">                
+					<input type="text" ng-model="todo" class="form-control"
+					 placeholder="What you want to achieve today ?">				
+					<span class="input-button-group">
+					<button ng-click="addTodo()" class="btn btn-default">Add</button>
+					</span>
+					
+				</div>		
+			</form>
+		</div>
+	<hr>
+
+	<div class="row">
+	<ul class="list-unstyled">
+
+		  <li class="navbar-form" ng-repeat="todo in todos">
+		  	<input type="checkbox" ng-model="select" ng-change="selectEntity($index)">
+		  	<span type="text" class="lead {{select}}">{{todo.todo}}</span>
+		  	<span class="form-group-btn">
+		  	<button class="btn btn-link" ng-click="removeTodo($index)">&times;</button>
+			</span>
+			<span class="text-default">Created {{todo.startTime|amCalendar}}</span>
+			<span ng-show="select"> | Closed at
+			<span class="text-default">{{todo.endTime|amCalendar}}</span></span>
+			<span ng-show="select" class="text-success"> | Duration: 
+			<span class="text-success">{{todo.duration}}</span></span>
+		  </li>
+
+	</ul>
+
+	</div>
+</div>
