@@ -12,12 +12,13 @@ gulp.task("server", function(){
 
 gulp.task("livereload",function (){
 
-	return gulp.src(["./**", "!bower_components","!node_modules"]).pipe(connect.reload());
+	return gulp.src(["directive/**", "!bower_components","!node_modules"])
+	.pipe(connect.reload());
 })
 
 gulp.task("minified", function (){
 
-gulp.src("/**").
+gulp.src("js/**/*.js").
 	pipe(uglify()).
 	pipe(gulp.dest("build/"));
 
@@ -25,7 +26,7 @@ gulp.src("/**").
 
 gulp.task("watcher", function (){
 
-return gulp.watch(["./**"],["livereload"]);
+return gulp.watch(["./**/*"],["livereload"]);
 
 });
 
