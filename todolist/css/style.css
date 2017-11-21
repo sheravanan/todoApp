@@ -1,4 +1,5 @@
 .true { 
     text-decoration: line-through;
-    color: grey;
+    color: honeydew;
+    text-transform: uppercase;
 }
